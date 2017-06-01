@@ -19,6 +19,9 @@
         localStorage[84] = 'https://www.taobao.com'
         localStorage[86] = 'https://www.v2ex.com'
         localStorage[87] = 'https://www.weibo.com'
+        localStorage[76] = 'http://lping.cn/'
+        localStorage[66] = 'http://lping.cn/bdhc_new/'
+        localStorage[81] = 'http://wycs.me/bdhc/'
     }
 
     for (var i in $keys) {
