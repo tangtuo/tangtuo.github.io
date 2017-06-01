@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f2f2f2;
+    background:url("bj.jpg");
 
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -10,7 +10,7 @@ body {
     user-select: none;
     font-family: Sans-serif;
 }
-
+#keyboard{opacity: 0.6;}
 /*-----------SEARCH-----------*/
 
 #search {
@@ -23,6 +23,7 @@ body {
     left: 50%;
     margin-left: -250px;
     box-sizing: border-box;
+    opacity: 0.7;
 }
 
 #search:focus {
